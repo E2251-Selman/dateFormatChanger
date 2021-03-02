@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    display: flex;
+    place-items: center;
+    height: 100%;
+    margin: auto;
+
+}
+.wrapper{
+    display: grid;
+    place-items: center;
+    height: 100%;
+    
+
+}
+.form{
+    display: grid;
+}
